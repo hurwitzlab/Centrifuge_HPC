@@ -1,0 +1,15 @@
+Could not locate a Centrifuge index corresponding to basename "/rsgrps/bhurwitz/jetjr/cent-db/prebuilt/p_compressed+h+v"
+Error: Encountered internal Centrifuge exception (#1)
+Command: /rsgrps/bhurwitz/jetjr/centrifuge/centrifuge-class --wrapper basic-0 -x /rsgrps/bhurwitz/jetjr/cent-db/prebuilt/p_compressed+h+v -S /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Spr_O_10m_reads-centrifuge_hits.tsv --report-file /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Spr_O_10m_reads-centrifuge_report.tsv -f -p 12 -U POV_L_Spr_O_10m_reads.fa 
+(ERR): centrifuge-class exited with value 1
+Could not locate a Centrifuge index corresponding to basename "/rsgrps/bhurwitz/jetjr/cent-db/prebuilt/p_compressed+h+v"
+Error: Encountered internal Centrifuge exception (#1)
+Command: /rsgrps/bhurwitz/jetjr/centrifuge/centrifuge-class --wrapper basic-0 -x /rsgrps/bhurwitz/jetjr/cent-db/prebuilt/p_compressed+h+v -S /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Sum_O_10m_reads-centrifuge_hits.tsv --report-file /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Sum_O_10m_reads-centrifuge_report.tsv -f -p 12 -U POV_L_Sum_O_10m_reads.fa 
+(ERR): centrifuge-class exited with value 1
+Could not locate a Centrifuge index corresponding to basename "/rsgrps/bhurwitz/jetjr/cent-db/prebuilt/p_compressed+h+v"
+Error: Encountered internal Centrifuge exception (#1)
+Command: /rsgrps/bhurwitz/jetjr/centrifuge/centrifuge-class --wrapper basic-0 -x /rsgrps/bhurwitz/jetjr/cent-db/prebuilt/p_compressed+h+v -S /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Win_O_10M_reads-centrifuge_hits.tsv --report-file /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Win_O_10M_reads-centrifuge_report.tsv -f -p 12 -U POV_L_Win_O_10M_reads.fa 
+(ERR): centrifuge-class exited with value 1
+Error in names(df) <- c("Name", "Proportion", "Abundance", "genomeSize",  : 
+  'names' attribute [9] must be the same length as the vector [0]
+Execution halted

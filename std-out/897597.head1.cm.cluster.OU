@@ -1,0 +1,10 @@
+FASTA files to be processed: POV_L_Spr_O_10m_reads.fa POV_L_Sum_O_10m_reads.fa POV_L_Win_O_10M_reads.fa
+null device 
+          1 
+
+You may want to consider changing your batch submission script as follows to speed up your job run next time:
+
+#PBS -l select=1:ncpus=12:mem=7gb
+#PBS -l place=free:shared
+#PBS -l walltime=00:11:00
+

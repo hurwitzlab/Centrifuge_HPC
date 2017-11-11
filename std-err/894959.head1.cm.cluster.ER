@@ -1,0 +1,12 @@
+report file /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Spr_O_10m_reads-centrifuge_report.tsv
+Number of iterations in EM algorithm: 28
+Probability diff. (P - P_prev) in the last iteration: 7.20507e-11
+Calculating abundance: 00:00:00
+report file /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Sum_O_10m_reads-centrifuge_report.tsv
+Number of iterations in EM algorithm: 0
+Probability diff. (P - P_prev) in the last iteration: 0
+Calculating abundance: 00:00:00
+report file /rsgrps/bhurwitz/jetjr/pov_kmer/taxonomy_out/POV_L_Win_O_10M_reads-centrifuge_report.tsv
+Number of iterations in EM algorithm: 3
+Probability diff. (P - P_prev) in the last iteration: 3.67193e-14
+Calculating abundance: 00:00:00
